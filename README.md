@@ -4,6 +4,8 @@
 <H3>
   <POINT>
     1.YOU NEED TO INSTALL THE APK.
+  </POINT>
+  <POINT>
     2. THEN TOU NEED TO USE IT ,SIMPLE.
   </POINT>
 </H3>
